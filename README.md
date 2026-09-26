@@ -4,7 +4,7 @@ Aplicación web para armar el horario universitario del semestre. Muestra las ma
 
 Es un único archivo (`index.html`) sin dependencias ni servidor: funciona en cualquier navegador, en computadora o teléfono.
 
-**Abrir la app:** _URL pendiente_
+**Abrir la app:** https://carlosalsa-py.github.io/armador-horario/
 
 ## Cómo usarla
 
